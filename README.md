@@ -30,11 +30,6 @@ Hobbies: Dota 2, CS2, watching anime
 
 
 
-
-
-
-
-
 ```
 
 <div>
