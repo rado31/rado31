@@ -4,7 +4,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://gist.githubusercontent.com/rado31/f4c9e80e0710aec2e4734e5ee974d2be/raw/bffc5e111c834b177c908572baa1cdf3a648fc54/jiraiya.jpg" width="200px" style="margin: 0px 20px 20px 0px"/>
+<img align="left" src="https://gist.githubusercontent.com/rado31/f4c9e80e0710aec2e4734e5ee974d2be/raw/bffc5e111c834b177c908572baa1cdf3a648fc54/jiraiya.jpg" width="200px" style="margin-right: 20px"/>
 
 ```csharp
 Username: Rahymov Dovran 「ラドー」
@@ -16,6 +16,17 @@ Languages: Rust, Goland, NodeJS
 IDE: NeoVIM, NvChad
 Learning: Rust
 Hobbies: Dota 2, CS2, watching anime
+
+
+
+
+
+
+
+
+
+
+
 
 
 
