@@ -12,7 +12,7 @@ DOB: 31.07.1999
 WhoamI: Software developer
 OS: MacOS Monterey, Xubuntu 22.04
 Shell: fish 3.6.1
-Languages: Rust, Goland, NodeJS
+Languages: Rust, Golang, NodeJS
 IDE: NeoVIM, NvChad
 Learning: Rust
 Hobbies: Dota 2, CS2, watching anime
