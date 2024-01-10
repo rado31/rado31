@@ -36,7 +36,7 @@ Hobbies: Dota 2, CS2, watching anime
 
 <div align = "center">
     <a href="https://skillicons.dev">
-        <img style="margin: 10px" src="https://gist.githubusercontent.com/rado31/f4c9e80e0710aec2e4734e5ee974d2be/raw/bffc5e111c834b177c908572baa1cdf3a648fc54/icons.svg" alt="My Skills"/> 
+        <img style="margin: 10px" src="https://gist.githubusercontent.com/rado31/f4c9e80e0710aec2e4734e5ee974d2be/raw/389e7cc0859be36276877cd9be67c75dcb3fc969/icons.svg" alt="My Skills"/> 
     </a>
 </div>
 <br>
