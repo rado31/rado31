@@ -15,7 +15,7 @@ Shell: fish 3.6.1
 Languages: Rust, Golang, NodeJS
 IDE: NeoVIM, NvChad
 Learning: Rust
-Hobbies: Dota 2, CS2, watching anime
+
 
 
 
