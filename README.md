@@ -40,14 +40,3 @@ Learning: Rust
     </a>
 </div>
 <br>
-
-<h2 align = "center"> 📉 GitHub Stats</h2>
-
-<div align = "center">
-    <a href="https://github-readme-stats.vercel.app">
-        <img width="48%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=rado31&count_private=true&theme=neon&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&rank_icon=github&hide_border=false"/>
-    </a>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rado31&hide_border=false&theme=neon&layout=compact&hide_progress=false&hide=jupyter%20notebook&langs_count=6" align="right" width = "48%" />
-    </a>
-</div>
