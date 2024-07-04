@@ -4,14 +4,14 @@
 > neofetch
 ```
 
-<img align="left" src="https://gist.githubusercontent.com/rado31/f4c9e80e0710aec2e4734e5ee974d2be/raw/bffc5e111c834b177c908572baa1cdf3a648fc54/jiraiya.jpg" width="200px" style="margin-right: 20px"/>
+<img align="left" src="https://gist.githubusercontent.com/rado31/f4c9e80e0710aec2e4734e5ee974d2be/raw/bffc5e111c834b177c908572baa1cdf3a648fc54/jiraiya.jpg" width="200px" style="margin-right: 20px; border-radius: 5px"/>
 
 ```csharp
 Username: Rahymov Dovran 「ラドー」
 DOB: 31.07.1999
 WhoamI: Software developer
-OS: MacOS Monterey, Xubuntu 22.04
-Shell: fish 3.6.1
+OS: MacOS Monterey, Archcraft
+Shell: fish 3.6.1, zsh 5.9
 Languages: Rust, Golang, NodeJS
 IDE: NeoVIM, NvChad
 Learning: Rust
