@@ -12,7 +12,7 @@ DOB: 31.07.1999
 WhoamI: Software developer
 OS: MacOS Monterey, Archcraft
 Shell: fish 3.6.1, zsh 5.9
-Languages: Rust, Golang, NodeJS
+Languages: Rust, Golang, JS/TS
 IDE: NeoVIM, NvChad
 Learning: Rust
 
