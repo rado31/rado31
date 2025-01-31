@@ -1,7 +1,3 @@
-```fish
-> neofetch
-```
-
 ```csharp
 User: Rahymov Dovran 「ラドー」
 DOB: 31.07.1999
